@@ -25,6 +25,4 @@ public class IsPowerOfThree {
 		        return false;
 		}
 	}
-
-
 }
